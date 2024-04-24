@@ -1,0 +1,15 @@
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\bin\Debug\net7.0\InheritancePolymorphismExec.exe
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\bin\Debug\net7.0\InheritancePolymorphismExec.deps.json
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\bin\Debug\net7.0\InheritancePolymorphismExec.runtimeconfig.json
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\bin\Debug\net7.0\InheritancePolymorphismExec.dll
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\bin\Debug\net7.0\InheritancePolymorphismExec.pdb
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\obj\Debug\net7.0\InheritancePolymorphismExec.csproj.AssemblyReference.cache
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\obj\Debug\net7.0\InheritancePolymorphismExec.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\obj\Debug\net7.0\InheritancePolymorphismExec.AssemblyInfoInputs.cache
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\obj\Debug\net7.0\InheritancePolymorphismExec.AssemblyInfo.cs
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\obj\Debug\net7.0\InheritancePolymorphismExec.csproj.CoreCompileInputs.cache
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\obj\Debug\net7.0\InheritancePolymorphismExec.dll
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\obj\Debug\net7.0\refint\InheritancePolymorphismExec.dll
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\obj\Debug\net7.0\InheritancePolymorphismExec.pdb
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\obj\Debug\net7.0\InheritancePolymorphismExec.genruntimeconfig.cache
+C:\temp\projetos\InheritancePolymorphismExec\InheritancePolymorphismExec\obj\Debug\net7.0\ref\InheritancePolymorphismExec.dll
